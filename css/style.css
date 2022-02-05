@@ -451,8 +451,9 @@ a {
   right: 35px;
   color: #ffffff;
   font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
+  font-weight: 900;
+  text-align: center;
+  line-height: 1.18;  
   background-color: #d89831;
 }
 
